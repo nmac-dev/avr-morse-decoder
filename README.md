@@ -14,7 +14,7 @@ It works by detecting input from a button, then decoding and outputting the corr
 
 ## How to Run
 You will need an `Arduino Uno Rev3` with a seven-segment display and a button setup in the flowwing configuration:  
-<img alt="Arduino Layout" height="500" src="README/arduino_layout.png">
+<img alt="Arduino Layout" height="400" src="README/arduino_layout.png">
   
 Here is the pin configuration for the `seven segment` display  
 <img alt="Seven Segment Display" height="400" src="README/seven-segment.png">
@@ -23,7 +23,8 @@ Once in the correct configuration connect the Arduino to your computer via USB.
 Open a terminal to navigate to the `src` directory.  
 Compile and upload the program using the command `make upload`  
   
-Test everything worked by using the button on the Arduino.  
+Test everything worked by using the button on the Arduino and comparing it to the morse code tree:  
+<img alt="Morse Code Tree" height="400" src="README/morse-code-tree.svg.png">
   
 ### Requirements
  * `Arduino Uno Rev3`
