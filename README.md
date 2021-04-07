@@ -13,7 +13,7 @@ It works by detecting input from a button, then decoding and outputting the corr
 
 ## How to Run
 You will need an `Arduino Uno Rev3` with a seven-segment display and a button setup in the flowwing configuration:  
-<img alt="Arduino Layout" src="README/arduino_layout.png">
+<img alt="Arduino Layout" height="700" src="README/arduino_layout.png">
   
 Once in the correct configuration connect the Arduino to your computer via USB.  
 Open a terminal to navigate to the `src` directory.  
