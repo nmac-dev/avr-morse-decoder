@@ -8,12 +8,16 @@ It works by detecting input from a button, then decoding and outputting the corr
    - [Requirements](#Requirements)
    - [Development Tools](#Development-Tools)
  * [Design](#Design)
+   - [Flow-Chart Concept](#Flow-Chart-Concept)
    - [Overview of Implementation](#Overview-of-Implementation)
    - [Challenges of Implementation](#Challenges-of-Implementation)
 
 ## How to Run
 You will need an `Arduino Uno Rev3` with a seven-segment display and a button setup in the flowwing configuration:  
-<img alt="Arduino Layout" height="700" src="README/arduino_layout.png">
+<img alt="Arduino Layout" height="600" src="README/arduino_layout.png">
+  
+Here is the pin configuration for the `seven segment` display  
+<img alt="Seven Segment Display" height="400" src="seven-segment.png">
   
 Once in the correct configuration connect the Arduino to your computer via USB.  
 Open a terminal to navigate to the `src` directory.  
