@@ -23,8 +23,8 @@ Once in the correct configuration connect the Arduino to your computer via USB.
 Open a terminal to navigate to the `src` directory.  
 Compile and upload the program using the command `make upload`  
   
-Test everything worked by using the button on the Arduino and comparing it to the morse code tree:  
-<img alt="Morse Code Tree" height="400" src="README/morse-code-tree.png">
+Test everything worked by using the button on the Arduino and comparing the output to the morse code tree:  
+<img alt="Morse Code Tree" height="300" src="README/morse-code-tree.png">
   
 ### Requirements
  * `Arduino Uno Rev3`
