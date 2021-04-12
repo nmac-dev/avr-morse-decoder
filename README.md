@@ -13,7 +13,7 @@ It works by detecting input from a button, then decoding and outputting the corr
    - [Challenges of Implementation](#Challenges-of-Implementation)
 
 ## How to Run
-You will need an `Arduino Uno Rev3` with a seven-segment display and a button setup in the flowwing configuration:  
+You will need an `Arduino Uno Rev3` with a seven-segment display and a button setup in the following configuration:  
 <img alt="Arduino Layout" height="400" src="README/arduino_layout.png">
   
 Here is the pin configuration for the `seven segment` display  
